@@ -1,0 +1,73 @@
+
+a:link{
+	text-decoration: none;
+}
+
+header{
+	height: 100px;
+	background-color: #8dacc7;
+}
+
+h1{
+	font-family: Verdana;
+	font-style: italic;
+	font-size: 50px;
+	padding-left: 50px;
+	padding-top:40px;
+}
+
+nav{
+	padding bottom: 20px
+}
+
+
+.dropdown-menu{
+	height: 240px;
+	overflow-y: auto;
+}
+
+#carouselExampleControls{
+	display:inline-block;
+	float: left;
+	padding: 10px;
+
+}
+
+#nextRace{
+	padding-top: 100px;
+	display: inline-block;
+	float: right;
+}
+
+
+h3{
+	text-align: center;
+}
+
+h4{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
+
+.image-with-text{
+	margin: auto;
+}
+
+table{
+	text-align: center;
+
+}
+
+.driversTable{
+	display: inline-block;
+	float: left;
+}
+
+.constructorsTable{
+	display: inline-block;
+	float: right;
+}
+
